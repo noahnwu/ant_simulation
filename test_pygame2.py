@@ -8,7 +8,6 @@ Created on Thu Jan  6 11:15:35 2022
 import pygame
 from random import randint
 from math import copysign
-from ant import Ant
 GRAY = (100, 100, 100 )
 GREEN = (0, 128, 0)
 RED = (255, 0, 0)
